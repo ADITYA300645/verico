@@ -1,13 +1,10 @@
-# verico
+An E-Com Mix of Social Media
 
-An E-Com Mix of Socaial Media
+Its and Idea to mix Ecom with social media to bring younger audience and improve sales
 
-Its and Idea to mix Ecom with social mediato bring more young audiance and improve sales 
-
-keyfeatures :- 
-    
-    Presents UI of Socail media to advertise products 
+    key features :-
+    Presents UI of Social media to advertise products. 
     Animation and UI Models
-    GPay integratin 
-    
--- project is still under development -- 
+    GPay integrating 
+
+-- project is still under development --
